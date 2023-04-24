@@ -1,4 +1,4 @@
-## Olá! sou Matiazy, fique a vontade no meu perfil. 🤗
+## Olá pessoal! Eu sou o Matiazy 🤗🚀
 
 <div aligh="left">
   <a href="https://github.com/edumatiazy">
