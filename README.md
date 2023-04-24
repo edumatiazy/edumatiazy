@@ -4,14 +4,6 @@
   <a href="https://github.com/edumatiazy">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=edumatiazy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="edu-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="edu-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="edu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   
   ##
   
